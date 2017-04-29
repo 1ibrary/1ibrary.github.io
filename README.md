@@ -2,7 +2,7 @@
 
 产品主页：[https://1ibrary.github.io](https://1ibrary.github.io)
 
-Apple Store 下载地址：[https://itunes.apple.com/us/app/qing-bao/id1140842775](https://itunes.apple.com/us/app/qing-bao/id1140842775)
+Apple Store 下载地址：[https://itunes.apple.com/us/app/%E4%B8%80%E5%9B%BE/id1230892748?l=zh&ls=1&mt=8](https://itunes.apple.com/us/app/%E4%B8%80%E5%9B%BE/id1230892748?l=zh&ls=1&mt=8)
 
 项目 GitHub 地址：[https://github.com/1ibrary](https://github.com/1ibrary)
 
